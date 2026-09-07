@@ -1,5 +1,5 @@
 {
-  "name": "frappe-datatable",
+  "name": "bor-datatable",
   "version": "0.0.0-development",
   "description": "A modern datatable library for the web",
   "main": "dist/frappe-datatable.cjs.js",
